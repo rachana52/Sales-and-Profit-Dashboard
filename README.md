@@ -64,3 +64,9 @@ This dashboard helps management:
 
 
 
+## 🖼 Furniture June 2021 Dashboard
+
+![Furniture June 2021 Dashboard](Furniture June 2021 Dashboard.png)
+
+
+
