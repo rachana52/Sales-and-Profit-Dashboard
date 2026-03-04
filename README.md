@@ -64,7 +64,5 @@ This dashboard helps management:
 
 ## 📷 Dashboard Preview – Furniture | June 2021
 
-## 📷 Dashboard Preview – Furniture | June 2021
-
 ![Furniture Dashboard - June 2021](Furniture_June_2021_Dashboard.png)
 
