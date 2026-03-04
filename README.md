@@ -45,7 +45,7 @@ These slicers allow real-time filtering across all visualizations for better bus
 - Analyzed monthly sales growth trends  
 - Compared yearly profit performance  
 - Evaluated category-wise contribution  
-- Monitored regional sales distribution  
+ 
 
 
 ## 💼 Business Value
