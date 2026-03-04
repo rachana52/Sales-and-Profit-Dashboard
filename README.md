@@ -9,9 +9,9 @@ This dashboard transforms raw sales data into meaningful insights using data vis
 📈 Sales by Month Analysis
 📊 Year-wise Profit Comparison
 🏆 Top 5 Customers by Profit
-📦 Sales by Category (Funnel Chart)
-🗺️ Sales by State (Map Chart)
-👥 Customer Distribution (Donut Chart)
+📦 Sales by Category (Funnel Chart)\\
+🗺️ Sales by State (Map Chart)\\
+👥 Customer Distribution (Donut Chart)\\
 🎛️ Interactive Slicers
 The dashboard includes dynamic slicers for:
 🔹 Category
