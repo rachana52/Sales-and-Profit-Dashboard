@@ -61,3 +61,7 @@ This dashboard helps management:
 ## 🖼 Dashboard Preview
 
 ![Dashboard Preview](dashboard-preview.png)
+
+## Dashboard Preview-Furniture/June 2022
+![Dashboard Preview-Furniture/June 2022](Dashboard Preview-Furniture/June 2022.png)
+
