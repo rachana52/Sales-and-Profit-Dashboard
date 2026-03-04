@@ -11,13 +11,11 @@ This dashboard transforms raw sales data into meaningful insights using data vis
 
 - ✅ Total Sales KPI  
 - ✅ Total Profit KPI  
-- ✅ Profit Margin %  
 - 📈 Sales by Month Analysis  
 - 📊 Year-wise Profit Comparison  
 - 🏆 Top 5 Customers by Profit  
 - 📦 Sales by Category (Funnel Chart)  
 - 🗺️ Sales by State (Map Chart)  
-- 👥 Customer Distribution (Donut Chart)  
 
 
 ## 🎛️ Interactive Slicers
